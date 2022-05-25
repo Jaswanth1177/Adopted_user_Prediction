@@ -39,3 +39,5 @@ First I have extracted the unique values from the data and then applied the SKle
 
 
 I have used XGBClassifier model which gives more accurate prediction than other models.
+
+The attached image is the graph between adoption predictive features and feature importance score.
